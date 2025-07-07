@@ -1,10 +1,11 @@
-How to run:
+# How to run:
 
 1. Run these commands:
-npm install -D playwright
-./chase-fetch.js
-
+   ```bash
+   npm install -D playwright
+   ./chase-fetch.js
+   ```
 2. Login to your Chase account
-3. (allow the automation to run)
-4. See output in 'downloads' directory
-
+3. Hit "enter" on the console
+4. (allow the automation to run)
+5. See output in 'downloads' directory
